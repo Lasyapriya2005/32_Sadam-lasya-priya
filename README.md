@@ -92,14 +92,6 @@ Quality and clarity of AI-generated explanations
 
 Documentation of assumptions and limitations
 
-⚠️ Limitations
-
-No real-time hospital availability data
-
-Facility and capacity information is simulated
-
-Recommendations are advisory and non-diagnostic
-
 🚀 Future Scope
 
 Integration with real-time hospital data sources
